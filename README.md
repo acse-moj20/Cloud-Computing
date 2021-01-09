@@ -1,2 +1,3 @@
-# SWE_Python-
-Projects and learnings using python
+# My Introduction to Cloud Computing 
+Just teaching myself cloud computing
+
