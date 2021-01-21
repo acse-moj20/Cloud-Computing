@@ -47,4 +47,5 @@ Cloud security is a shared responsibility between users and cloud providers.This
    - Data architecture security. Inlcudes data-at-rest encryption, data-in-motion encryption, data-in-memory/use protection and key management (for confidential and/or sensitive data).
    - Scanning for vulnerabilities in application at container level and application level.  
    - In the user section, identity needs to be verified and network access should be monitored by issuing authorization. 
+
 Overall, cloud security comprises of the 2 categories: data protection and access management. 
