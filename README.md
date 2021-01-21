@@ -46,6 +46,6 @@ Users are only responsible for application code and upgrade while cloud provider
 Cloud security is a shared responsibility between users and cloud providers.This responsibility dependes on which cloud service model (IaaS, PaaS or SaaS) you has a user has chosen. Cloud security can be categorized into 2 based on three stages (User, Application and Data). These are:
    - Data architecture security. Inlcudes data-at-rest encryption, data-in-motion encryption, data-in-memory/use protection and key management (for confidential and/or sensitive data).
    - Scanning for vulnerabilities in application at container level and application level.  
-   - In the user section, identity needs to be verified and network access should be monitored by issuing authorization. 
+   - In the user (administrative/developer/application) instance, identity needs to be verified and network access should be monitored by issuing authorization. 
 
-Overall, cloud security comprises of the 2 categories: data protection and access management. 
+Overall, cloud security comprises of the 2 categories: data protection and identity/access management. 
