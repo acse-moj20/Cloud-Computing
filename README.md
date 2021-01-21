@@ -39,4 +39,12 @@ Storage for dtata is of 3 types - object (highly distributive and resilient), fi
 - Platform-as-a-Service (PaaS):
 Users are only responsible for application code and upgrade while cloud providers are responsible for installation, configuration, operation of application infrastructure. Distinguished by the high level of abstraction they provide including support services and APIs (for distributed caching, queueing, analytics, etc.). They also provie rapid deployment mechanisms and middleware capabilities (dbms, back-end services, rule engines, etc.). Some use cases are APL development and management, IoT, Business analytics/intelligence, business pricess management and Master Data Management.
 
+-------
+-------
 
+## Cloud Security 
+Cloud security is a shared responsibility between users and cloud providers.This responsibility dependes on which cloud service model (IaaS, PaaS or SaaS) you has a user has chosen. Cloud security can be categorized into 2 based on three stages (User, Application and Data). These are:
+   - Data architecture security. Inlcudes data-at-rest encryption, data-in-motion encryption, data-in-memory/use protection and key management (for confidential and/or sensitive data).
+   - Scanning for vulnerabilities in application at container level and application level.  
+   - In the user section, identity needs to be verified and network access should be monitored by issuing authorization. 
+  Overall, cloud security comprises of the 2 categories: data protection and access management. 
